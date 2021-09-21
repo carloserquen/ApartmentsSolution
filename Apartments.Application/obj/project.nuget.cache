@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/ml4CXilaY5LNmgb9F6xf6FifkMwKVNc+vx2+se7ZJH4aQi3oU4eakBk+iFKgy/tBMCQmf1IbDJ4nf/cKVHKA==",
+  "success": true,
+  "projectFilePath": "D:\\Develop\\ApartmentsSolution\\Apartments.Application\\Apartments.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

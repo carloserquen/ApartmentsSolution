@@ -1,0 +1,11 @@
+D:\Develop\ApartmentsSolution\Apartments.Domain\bin\Debug\net5.0\Apartments.Domain.deps.json
+D:\Develop\ApartmentsSolution\Apartments.Domain\bin\Debug\net5.0\Apartments.Domain.dll
+D:\Develop\ApartmentsSolution\Apartments.Domain\bin\Debug\net5.0\ref\Apartments.Domain.dll
+D:\Develop\ApartmentsSolution\Apartments.Domain\bin\Debug\net5.0\Apartments.Domain.pdb
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.AssemblyInfoInputs.cache
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.AssemblyInfo.cs
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.csproj.CoreCompileInputs.cache
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.dll
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\ref\Apartments.Domain.dll
+D:\Develop\ApartmentsSolution\Apartments.Domain\obj\Debug\net5.0\Apartments.Domain.pdb
